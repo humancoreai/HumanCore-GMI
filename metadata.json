@@ -1,0 +1,5 @@
+{
+  "name": "HumanCore 1.0",
+  "description": "A client-side Multi-Agent Supervisor dashboard demo featuring workflow management, system logging, and a simulated AI supervisor chat interface.",
+  "requestFramePermissions": []
+}
